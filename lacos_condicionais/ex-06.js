@@ -1,13 +1,5 @@
 const scanner = require( 'readline-sync' )
 let jobCode, position, salary, newSalary, name
-let positions = {
-    gerente: 10,
-    vendedor: 7,
-    supervisor: 9,
-    motorista: 6,
-    estoquista: 5,
-    tecnico_de_ti: 8
-}
 
 name = scanner.question( "Nome do colaborador: ")
 position = scanner.questionInt( 'Cargo: ' )
