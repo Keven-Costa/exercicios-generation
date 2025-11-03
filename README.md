@@ -7,10 +7,10 @@ Resolução das atividades práticas - JavaScript
 
 ## 📌 Exercícios de Entrada e Saída de dados
 
-- [Exercício - 01](https://github.com/Keven-Costa/exercicios-generation/blob/main/ex-01.js)
-- [Exercício - 02](https://github.com/Keven-Costa/exercicios-generation/blob/main/ex-02.js)
-- [Exercício - 03](https://github.com/Keven-Costa/exercicios-generation/blob/main/ex-03.js)
-- [Exercício - 04](https://github.com/Keven-Costa/exercicios-generation/blob/main/ex-04.js)
+- [Exercício - 01](https://github.com/Keven-Costa/exercicios-generation/blob/main/entrada_saida_de_dados/ex-01.js)
+- [Exercício - 02](https://github.com/Keven-Costa/exercicios-generation/blob/main/entrada_saida_de_dados/ex-02.js)
+- [Exercício - 03](https://github.com/Keven-Costa/exercicios-generation/blob/main/entrada_saida_de_dados/ex-03.js)
+- [Exercício - 04](https://github.com/Keven-Costa/exercicios-generation/blob/main/entrada_saida_de_dados/ex-04.js)
 
 ## 📌 Exercícios de Laços Condicionais
 
