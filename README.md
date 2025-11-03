@@ -35,3 +35,8 @@ Resolução das atividades práticas - JavaScript
 - [Exercício - 08](https://github.com/Keven-Costa/exercicios-generation/blob/main/lacos_repeticao/ex-08.js)
 - [Exercício - 09](https://github.com/Keven-Costa/exercicios-generation/blob/main/lacos_repeticao/ex-09.js)
 - [Exercício - 10 - (não concluído)](https://github.com/Keven-Costa/exercicios-generation/blob/main/lacos_repeticao/ex-10.js)
+
+## 📌 Exercícios de Collection e TypeScript
+
+- [Exercício - 01](https://github.com/Keven-Costa/exercicios-generation/blob/main/collections/ex-01.ts) 
+- [Exercício - 03](https://github.com/Keven-Costa/exercicios-generation/blob/main/collections/ex-03.ts) 
